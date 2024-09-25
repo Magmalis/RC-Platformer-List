@@ -1,5 +1,5 @@
-# Welcome to the Geometry Dash Tiny Pemonlist
+# Welcome to the Spikeless Platformer List
 
-This list is owned by cloudy45, site is here
+This list is owned by Magmalis and oneinsightcoder, site is here
 
-https://oneinsightcoder.github.io/TinyPemonSite/#/
+https://magmalis.github.io/SpikelessPlatformerList/#/

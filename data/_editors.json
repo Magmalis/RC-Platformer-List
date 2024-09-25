@@ -1,57 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "SpaceUK",
-        "link": "https://www.youtube.com/@Squarestheperson"
+        "name": "Magmalis",
+        "link": ""
     },
     {
         "role": "admin",
-        "name": "Synactive",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "admin",
-        "name": "Chackus",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "Minicube",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "dev",
-        "name": "Zchar",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "extatica",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "Supzix",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "2ItalianCats",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "Kaj",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "Vix",
-        "link": "https://www.youtube.com/"
-    },
-    {
-        "role": "helper",
-        "name": "tFluffy",
-        "link": "https://www.youtube.com/"
+        "name": "oneinsightcoder",
+        "link": ""
     }
 ]

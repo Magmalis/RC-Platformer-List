@@ -1,0 +1,32 @@
+{
+    "id": "108103482",
+    "name": "apricot tower",
+    "author": "whitepoop",
+    "verifier": "whitepoop",
+    "desc": "",
+    "percentToQualify": 100,
+    "handcam": 1,
+    "hacked": false,
+    "unrated": false,
+    "verificationVid": "https://youtu.be/SY6H1jsWSUs",
+    "password": "",
+        "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Zow0PHD2ZCk?feature=shared",
+            "user": "Hellcat"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/zheXVS1YesM?feature=shared",
+            "user": "Ayumi"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/YsS7zQTt54c?feature=shared",
+            "user": "Tanuklen"
+        }
+    ]
+    
+    
+}

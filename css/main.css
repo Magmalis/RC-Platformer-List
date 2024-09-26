@@ -1,5 +1,4 @@
-main,
-header {
+:root {
     color-scheme: dark;
     --color-background: #222323;
     --color-on-background: #abaeba;

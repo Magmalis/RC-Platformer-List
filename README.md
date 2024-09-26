@@ -2,4 +2,4 @@
 
 This list is owned by Magmalis and oneinsightcoder, site is here
 
-https://magmalis.github.io/SpikelessPlatformerList/#/
+[RC list main page](https://magmalis.github.io/RC-Platformer-List/#/)

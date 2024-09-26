@@ -25,7 +25,7 @@ header.dark {
 
 main.light,
 header.light {
-    color-scheme: dark;
+    color-scheme: light;
     --color-background: #222323;
     --color-on-background: #abaeba;
     --color-background-hover: #27262c;

@@ -1,13 +1,13 @@
 :root {
     --color-background: #cdd2da;
     --color-on-background: #222323;
-    --color-background-hover: #27262c;
-    --color-on-background-hover: #222323;
-    --color-primary: #5d5e5e;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: #222323;
+    --color-background-hover: #000000;
+    --color-on-background-hover: #434549;
+    --color-primary: #000000;
+    --color-primary-disabled: #626871;
+    --color-on-primary: #828b98;
     --color-error: #de0000;
-    --color-on-error: #abaeba;
+    --color-on-error: #a6aeba;
 }
 
 .nav {
